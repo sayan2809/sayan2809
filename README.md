@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/92/88/72/1000_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/92/88/72/1000_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
 <h1 align="center">Hi 👋, I'm Sayan Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e4714f2hy1m9q2q9zo48u6hw8h9z60qziajbds00ff3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
