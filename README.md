@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan2809&show_icons=true&locale=en" alt="sayan2809" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan2809&" alt="sayan2809" /></p>
+<div align="center">
+<p align="center"><b>HIRE ME ⬇</b></p>
+<p><a href="https://sayan-das.vercel.app/"><img src="[https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://www.pngfind.com/pngs/m/182-1824572_images-of-batman-symbol-batman-logo-2005-hd.png)https://www.pngfind.com/pngs/m/182-1824572_images-of-batman-symbol-batman-logo-2005-hd.png"></a></p>
+</div>
