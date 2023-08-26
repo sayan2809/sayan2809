@@ -29,6 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan2809&" alt="sayan2809" /></p>
 <div align="center">
-<p align="center"><b>HIRE ME ⬇</b></p>
-<p><a href="https://sayan-das.vercel.app/"><img src="https://www.pngfind.com/pngs/m/182-1824572_images-of-batman-symbol-batman-logo-2005-hd.png"></a></p>
-</div>
+
